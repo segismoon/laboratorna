@@ -1,0 +1,10 @@
+*.pyc
+*.ini
+.env*
+*.orig
+*~
+*.egg-info
+*.mo
+*.egg.
+media/*
+static/*
